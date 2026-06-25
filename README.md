@@ -1,6 +1,8 @@
 # OlfactoBot AI
 
 OlfactoBot is a runnable Python prototype of a mobile AI-powered artificial nose. It simulates sensor arrays, analytical chemistry-like volatile features, biological meaning labels, autonomous plume mapping, machine-learning training, and robot decision-making for health, food, and environmental settings.
+<img width="1536" height="1024" alt="Al-Powered Artificial Nose for Chemical Sensing, Interpretation   Plume Mapping" src="https://github.com/user-attachments/assets/4ca88f46-92ea-416a-a45d-cab68f07bc55" />
+<img width="1536" height="1024" alt="OlfactoBot Al" src="https://github.com/user-attachments/assets/dbf7710a-266e-4879-8e16-2dc65806177b" />
 
 ## What it does
 
