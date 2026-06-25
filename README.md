@@ -55,4 +55,4 @@ models/
 
 ## Note
 
-This is a simulation and prototype. It is intended for technical demonstration, ARIA interview preparation, and early research design. It is not a validated diagnostic, food-safety, or environmental-safety system.
+This is a simulation and prototype. It is intended for technical demonstration and early research design. It is not a validated diagnostic, food-safety, or environmental-safety system.
