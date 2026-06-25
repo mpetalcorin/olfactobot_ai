@@ -1,0 +1,13 @@
+{
+  "system": "OlfactoBot AI",
+  "concept": "mobile AI-powered artificial nose",
+  "capabilities": [
+    "broad chemical sensing",
+    "sensor drift correction",
+    "biological meaning modelling",
+    "multimodal machine learning",
+    "uncertainty-aware decisions",
+    "autonomous plume mapping"
+  ],
+  "outputs_folder": "/Users/petalc01/Downloads/olfactobot_ai/outputs"
+}
